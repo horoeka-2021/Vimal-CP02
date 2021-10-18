@@ -1,0 +1,22 @@
+{
+  "name": "super",
+  "version": "0.0.5",
+  "description": "A demo repo for CP02",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/horoeka-2021/Vimal-CP02.git"
+  },
+  "author": "Vimal Raj Nagarajan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/horoeka-2021/Vimal-CP02/issues"
+  },
+  "homepage": "https://github.com/horoeka-2021/Vimal-CP02#readme",
+  "dependencies": {
+    "superheroes": "^3.0.0"
+  }
+}
